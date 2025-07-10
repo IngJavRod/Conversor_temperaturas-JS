@@ -14,6 +14,7 @@ Este es un proyecto de JavaScript que convierte temperaturas desde grados **Cels
 
 - HTML
 - JavaScript (Sin frameworks)
+- CSS
 
 ## 💡 ¿Quieres probarlo?
 

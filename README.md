@@ -8,7 +8,7 @@ Este es un proyecto de JavaScript que convierte temperaturas desde grados **Cels
 - Convierte esa temperatura a Fahrenheit y Kelvin usando fórmulas matemáticas.
 - Verifica que el valor ingresado sea un número.
 - Muestra los resultados en la consola y en la página web (DOM).
-- Está pensado como una práctica para reforzar lógica y uso básico de JavaScript.
+- Se realizo pensado en una práctica para reforzar lógica y uso básico de JavaScript.
 
 ## 🛠️ Tecnologías usadas
 

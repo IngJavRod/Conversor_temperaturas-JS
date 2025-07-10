@@ -1,4 +1,4 @@
-# ConvertiTemp 🌡️
+# Conversor_temperaturas-JS 🌡️
 
 Este es un proyecto de JavaScript que convierte temperaturas desde grados **Celsius** a **Fahrenheit** y **Kelvin**. El usuario ingresa la temperatura desde un input en la página web, y el programa se encarga de hacer las conversiones automáticamente.
 
